@@ -1,0 +1,13 @@
+.iconDiv {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   color: black;
+   gap: 5px;
+}
+
+img {
+   width: 25px;
+   height: 25px;
+}

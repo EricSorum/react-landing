@@ -1,0 +1,15 @@
+.footerDiv {
+   display: flex;
+   flex-direction: column;
+   width: 100%;
+   padding-left: 60px;
+}
+
+.linkDiv {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 60px;
+   gap: 60px;   
+   color: white;
+}

@@ -1,0 +1,13 @@
+.headerDiv {
+   display: flex;
+   flex-direction: column;
+   align-items: flex-start;
+   width: 100%;
+   padding-left: 60px;
+   padding-bottom: 60px;
+   color: white;
+}
+
+h3 {
+   font-size: 1.5rem;
+}
