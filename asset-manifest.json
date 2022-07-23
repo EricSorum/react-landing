@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-landing/static/css/main.6c834e3e.css",
+    "main.js": "/react-landing/static/js/main.4195714f.js",
+    "static/media/man.jpg": "/react-landing/static/media/man.eaf04d5d558d5634452a.jpg",
+    "static/media/twitter.png": "/react-landing/static/media/twitter.8e65601e69067aadfe55.png",
+    "static/media/soundcloud.png": "/react-landing/static/media/soundcloud.895835ab0d7089a2cf72.png",
+    "index.html": "/react-landing/index.html",
+    "main.6c834e3e.css.map": "/react-landing/static/css/main.6c834e3e.css.map",
+    "main.4195714f.js.map": "/react-landing/static/js/main.4195714f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c834e3e.css",
+    "static/js/main.4195714f.js"
+  ]
+}
