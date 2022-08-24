@@ -1,8 +1,6 @@
 .footerDiv {
    display: flex;
    flex-direction: column;
-   width: 100%;
-   padding-left: 60px;
 }
 
 .linkDiv {
@@ -12,4 +10,12 @@
    padding: 60px;
    gap: 60px;   
    color: white;
+}
+
+@media (max-width: 600px) {
+  .linkDiv {
+   transform: scale(80%);
+   padding: 10px;
+   gap: 10px;
+  }
 }

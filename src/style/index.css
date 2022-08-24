@@ -1,12 +1,21 @@
 body {
-  margin: 0;
-  font-family: 'Montserrat';
+  margin: 0px;
+  font-family: 'Montserrat', serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: black;
+  display: flex;
+  flex-direction: column;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@media (min-width: 2600px) {
+  .App {
+    max-width: 2600px;
+  }
+}
+
