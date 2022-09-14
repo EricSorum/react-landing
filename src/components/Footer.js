@@ -1,7 +1,10 @@
 import React from 'react'
 import Link from './Link'
 import style from '../style/Footer.module.css'
-
+/*
+This component renders a series of components that could be links to other parts
+of a site.
+*/
 function Footer() {
   return (
     <div className={style.footerDiv}>

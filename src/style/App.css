@@ -17,3 +17,10 @@
       opacity: 1;
    }
 }
+
+@media (max-width: 600px) {
+  .App {
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+}

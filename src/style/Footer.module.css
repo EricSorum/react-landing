@@ -6,7 +6,7 @@
 .linkDiv {
    display: flex;
    justify-content: center;
-   align-items: center;
+   align-items: flex-start;
    padding: 60px;
    gap: 60px;   
    color: white;
@@ -15,7 +15,7 @@
 @media (max-width: 600px) {
   .linkDiv {
    transform: scale(80%);
-   padding: 10px;
-   gap: 10px;
+   padding: 5px;
+   gap: 5px;
   }
 }

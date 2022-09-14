@@ -1,9 +1,13 @@
-.link {
+.linkDiv, 
+.description {
    display: flex;
    flex-direction: column;
    align-items: center;
    justify-content: center;
    gap: 15px;
+   padding: 10px;
+   text-align: center;
+   
 }
 
 .circle {
@@ -13,6 +17,18 @@
    height: 80px;
 }
 
+
+
 .name {
    font-weight: 700;
+}
+
+@media (max-width: 600px) {
+   .circle {
+      width: 60px;
+      height: 60px;
+   }
+   .description {
+      max-width: 100px;
+   }
 }
